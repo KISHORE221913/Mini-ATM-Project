@@ -29,7 +29,7 @@ class ATM {
         System.out.println("/PRESS 1 TO CHECK YOUR BALANCE/");
         System.out.println("/PRESS 2 TO CREDIT AMOUNT/");
         System.out.println("/PRESS 3 TO DEBIT AMOUNT/");
-        System.out.println("/PRESS 4 TO PRINT RECIPT/");
+        System.out.println("/PRESS 4 TO PRINT RECEIPT/");
         System.out.println("/PRESS 5 TO EXIT/");
 
         int option = scan.nextInt();
